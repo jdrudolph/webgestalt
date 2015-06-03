@@ -35,7 +35,6 @@ An example is included in `test/`
 
     >>> from webgestalt.runner import run
     >>> rejected = 'test/rejected.txt'
-    >>> background = 'test/background.txt'
     >>> run(rejected, background, folder='test', name='results')
 
 Licence
